@@ -2,6 +2,7 @@
 A simple world that evolves randomly over time
 
 The world is first initialized with a 9x9 grid containing only * characters as shown below, 
+
 ![](img/start.jpg) 
 
 With each iteration 3 randomly chosen elements on the grid are evolved to a new character among &, #, @ and /.
@@ -12,4 +13,5 @@ The random new character the element evolves to is chosen by taking a modulo 4 f
 ![](img/middle.jpg) 
 
 What the World might look like at the end.
+
 ![](img/last.jpg) 
