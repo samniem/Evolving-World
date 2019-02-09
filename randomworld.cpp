@@ -1,5 +1,5 @@
 #include <iostream>
-#include "randomworld.h"
+#include "randomworld.hpp"
 using namespace std;
 
 void Randomworld::printWorld()
